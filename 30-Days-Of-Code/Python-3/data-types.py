@@ -1,10 +1,7 @@
+# Declare second integer, double, and String variables.
 i = 4
 d = 4.0
 s = 'HackerRank '
-# Declare second integer, double, and String variables.
-j = int
-e = float
-t = str
 # Read and save an integer, double, and String to your variables.
 j = int(input())
 e = float(input())
