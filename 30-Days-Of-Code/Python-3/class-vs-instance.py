@@ -18,8 +18,8 @@ class Person:
         self.age += 1
         # Increment the age of the person in here
 
-t = int(input())
-for i in range(0, t):
+n = int(input())
+for i in range(0, n):
     age = int(input())         
     p = Person(age)  
     p.amIOld()
